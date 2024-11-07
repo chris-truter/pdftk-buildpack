@@ -1,0 +1,1 @@
+Custom buildpack that will install pdftk into /app/bin on Heroku. Supports 24.
